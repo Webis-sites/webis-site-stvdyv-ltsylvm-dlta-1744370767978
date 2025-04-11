@@ -40,6 +40,11 @@
 
   --neumorphic-shadow-dark: #7e615a;
   --neumorphic-shadow-light: #b88f84;
+
+  --button-primary-color: #9B786F;
+  --button-secondary-color: #FFEEAD;
+  --button-border-radius: 0.75rem;
+  --button-transition-duration: 300ms;
 }
 
     html {
