@@ -1,8 +1,36 @@
 {
   "projectName": "סטודיו-לצילום-דלתא-767",
   "businessName": "סטודיו לצילום דלתא",
-  "created": "2025-04-11T11:26:08.035Z",
-  "status": "initialized",
-  "progress": 0,
-  "components": []
+  "description": "אנחנו סטודיו לצילום מוביל בתחום הטכנולוגיה עם ניסיון של שנים רבות. אנחנו מתמחים במתן שירות מקצועי ואיכותי ללקוחותינו.",
+  "created": "2025-04-11T11:27:15.134Z",
+  "generatedWith": "webis-generator",
+  "repoName": "webis-site-stvdyv-ltsylvm-dlta-1744370767978",
+  "formData": {
+    "businessName": "סטודיו לצילום דלתא",
+    "businessType": "סטודיו לצילום",
+    "industry": "אופנה",
+    "businessSize": "medium",
+    "description": "אנחנו סטודיו לצילום מוביל בתחום הטכנולוגיה עם ניסיון של שנים רבות. אנחנו מתמחים במתן שירות מקצועי ואיכותי ללקוחותינו.",
+    "language": "he",
+    "primaryColor": "#9B786F",
+    "secondaryColor": "#FFEEAD",
+    "typographyStyle": "playful",
+    "animationPreference": "bold",
+    "headline": "סטודיו לצילום מוביל בישראל",
+    "descriptionText": "חווית לקוח מושלמת בכל ביקור",
+    "ctaText": "קבע תור עכשיו",
+    "formFields": "שם, טלפון, אימייל, הודעה",
+    "includeTestimonials": true,
+    "includeFAQ": false,
+    "hasProducts": false,
+    "hasServices": true,
+    "hasPortfolio": false,
+    "needsBookingSystem": false,
+    "metaDescription": "סטודיו לצילום מוביל המספק שירות מקצועי ואיכותי. הזמינו תור עוד היום!",
+    "metaKeywords": "סטודיו לצילום, שירות, איכות, מקצועיות, ישראל",
+    "designStyles": [
+      "neumorphic",
+      "glassmorphism"
+    ]
+  }
 }
