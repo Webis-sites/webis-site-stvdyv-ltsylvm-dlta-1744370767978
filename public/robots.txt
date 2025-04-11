@@ -1,0 +1,7 @@
+
+    # robots.txt for סטודיו לצילום דלתא
+    User-agent: *
+    Allow: /
+
+    # Sitemap
+    Sitemap: https://סטודיו-לצילום-דלתא.com/sitemap.xml
