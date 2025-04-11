@@ -29,6 +29,10 @@
   --card-hover-shadow: 20px 20px 60px rgba(0, 0, 0, 0.1), -20px -20px 60px rgba(255, 255, 255, 0.8);
   --card-border-radius: 1.25rem;
   --transition-speed: 0.5s;
+
+  --shadow-light: 5px 5px 15px rgba(0,0,0,0.05), -5px -5px 15px rgba(255,255,255,0.5);
+  --shadow-pressed: inset 5px 5px 10px rgba(0,0,0,0.05), inset -5px -5px 10px rgba(255,255,255,0.5);
+  --glass-bg: rgba(255, 255, 255, 0.15);
 }
 
     html {
