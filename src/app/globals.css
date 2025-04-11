@@ -45,6 +45,8 @@
   --button-secondary-color: #FFEEAD;
   --button-border-radius: 0.75rem;
   --button-transition-duration: 300ms;
+
+  --font-display: 'Heebo', 'Rubik', sans-serif;
 }
 
     html {
