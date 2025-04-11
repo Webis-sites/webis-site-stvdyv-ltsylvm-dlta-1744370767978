@@ -37,6 +37,9 @@
   --background-gradient-from: #f8f4f2;
   --background-gradient-to: #fff8e6;
   --card-blur: 10px;
+
+  --neumorphic-shadow-dark: #7e615a;
+  --neumorphic-shadow-light: #b88f84;
 }
 
     html {
