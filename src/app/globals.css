@@ -47,6 +47,11 @@
   --button-transition-duration: 300ms;
 
   --font-display: 'Heebo', 'Rubik', sans-serif;
+
+  --background-color: #F9F7F5;
+  --text-color: #333333;
+  --box-shadow: 8px 8px 16px rgba(155, 120, 111, 0.2), -8px -8px 16px rgba(255, 255, 255, 0.7);
+  --glass-blur: blur(10px);
 }
 
     html {
